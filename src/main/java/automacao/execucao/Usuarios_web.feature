@@ -14,6 +14,6 @@ Funcionalidade: Validar Funcionalidade da cadastro de Usuario web
   @BuscarPreçoNaKabum
   Cenario: buscar os preços das placas de videos no site da Kabum
     Dado que tenho uma rota valida para o site da "Kabum"
-    E realizo a busca da placa de video "RTX 3080"
+    E realizo a busca da placa de video "RTX 2070"
     Quando armazeno os dados
     E finalizo a busca

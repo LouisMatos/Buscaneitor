@@ -1,8 +1,7 @@
-package automacao.steps;
+package automacao.steps.kabum;
 
-import automacao.funcionalidade.BuscaKabum;
+import automacao.funcionalidade.kabum.BuscaKabum;
 import automacao.util.ChromeContext;
-import cucumber.api.PendingException;
 import cucumber.api.java.pt.Dado;
 import cucumber.api.java.pt.Quando;
 
